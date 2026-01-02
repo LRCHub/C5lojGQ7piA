@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "黄昏間際",
+  "base_artist": "学園祭学園",
+  "createdAt": "2026-01-02T15:47:21.125516Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黄昏間際",
+      "artist": "学園祭学園",
+      "has_synced": false,
+      "path": "select/pl_01_黄昏間際_学園祭学園.txt"
+    }
+  ]
+}
